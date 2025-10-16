@@ -1,0 +1,357 @@
+
+# PATCH NOTE v3.0
+
+## New Additions
+- Spanish translation of Reincarnation.
+- Added Oyabake! - Oyashiki Vacation 1 and 2 + English translation.
+- Added visual effects: Wave motion, water movement and background distortion.
+- Improved some existing visual effects.
+- Added a subtle visual effect on the borders of the main menu backgrounds.
+- Added visual effects in Carrot Cake Soul-Shuffling Incident and Seventh Lair.
+- You can now choose between Steam Deck mode (16:10), Fullscreen and Windowed.
+- For now, Steam Deck mode can only be configured from the main menu to avoid display issues during gameplay.
+- The game now launches in Fullscreen by default, using the maximum resolution of your monitor.
+- In the Concert Hall, Carrot Cake Soul-Shuffling Incident tracks are only available if you have completed the game.
+
+### Steam or Console Background:
+- The setting previously called "Background Old" can now be switched between console and Steam backgrounds directly during gameplay. As a result, the option has been removed from the main settings menu and is now located in the top left corner of the playback screen.
+- This option can now also be used across all games and short stories.
+
+## Fixes
+- Fixed a sprite expression for Michel in Carrot Cake Soul-Shuffling Incident.
+- "Floral-scented Yukimasa" now displays correctly in Carrot Cake Soul-Shuffling Incident.
+- The OST "blur muddy" now plays properly in Carrot Cake Soul-Shuffling Incident.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# PATCH NOTE v2.852
+
+## Fixes
+- The candle visual effect no longer appears on unintended sprites.
+### Arabic
+- Fixed a bug that caused the game to crash after a few lines of dialogue (Android).
+- Fixed a display issue in the backlog where some color formatting code was being shown. (Android)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# PATCH NOTE v2.85
+
+## New Additions
+- Added visual effects to the candles present in Michel and Giselle sprites.
+### Arabic
+- Work-in-progress translation of The House in Fata Morgana (currently Doors 1 and 2) is available to everyone and will be updated at major milestones.
+
+## Fixes
+- Fixed sprite positioning when loading a save with the old background option and vice versa
+- Added Italian lyrics on the Android version.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# PATCH NOTE v2.82
+
+## New Additions
+- Assento dele is now fully available in Italian.
+- Improved text layout in the chapter selection.
+- Optimized choices right after the third door (the final choice to access door fourth now triggers automatically if the conditions are met).
+- Added and improved the rendering of certain particle animations in The House in Fata Morgana.
+
+## Fixes
+- Fixed a character issue with "I" and "1" in the chapter selection.
+
+### Italian
+- Added chapter titles for Requiem for Innocence in the chapter selection.
+
+### French
+- Translation of all short story titles.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# PATCH NOTE v2.8
+
+## New Additions
+- French translation of Reincarnation and the remaining short stories
+<color=grey>(The Revenants' Dreams / I. Lost / II. Pain / Boy Meets Girl / Silent Night, Lonely Night / Scarlett in the Coffeehouse / A Ghost of an Excuse / Eternal Meisje. / A Slice of Sweet Serenity, of Days Long Lost I / A Slice of Sweet Serenity, of Days Long Lost II / The Ghost of Rose Manor / The Not-So-Little Mermaid / The Maid and the Beast / Sisterhood of Secrets / A Cup of Kindness)</color>
+- The main episode of Requiem for Innocence is now fully available in Italian
+- Added new visual effects to Requiem for Innocence (Dust, Godray, Candle...)
+- Overall improvement of particle effects visuals
+- Sprites have been slightly enhanced for better visual rendering
+
+## Fixes
+- Fixed a visual issue with certain expressions of Jacopo in Reincarnation
+- Fixed an issue that, in some cases, prevented the completion of an update installation. (After 2.8 update)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# PATCH NOTE v2.62
+
+## New Additions
+- Now displays English lyrics if the lyrics in the chosen language are unavailable.
+- Improved sprite animations for the dialogue box in The Final Door and Seventh Lair.
+- Added visual effects during door transitions and bad endings.
+- Visual effects are now available in Italian and Russian.
+
+## Fixes
+- Lyrics now display correctly.
+- Resolution remains stable during The Final Door and Seventh Lair on Android tablets.
+- Fixed scrolling animations for CGs on Android tablets.
+- Improved overall visibility on Steam Deck.
+- The installer PC/SteamDeck and videos should now work properly with Wine.
+
+### Russian
+- Text images now display correctly in Russian instead of English.
+- Fixed a missing animation on a CG in The Seventh Door.
+- Corrected display of an incorrect background in Requiem for Innocence.
+
+### Italian
+- Fixed some typos
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# PATCH NOTE v2.61
+
+## New Additions
+- I: Tales of a Distant Past and Not a Sorrow in the World are now fully available in Italian.
+- Complete remastering of Mujou no Erasmus soundtrack by CarnivoreMors. This remastering will also be extended to other NOVECT games in the future.
+- You can now manually download the APK after an update on Android.
+### INSTALLER PC
+- Downloading the patch should no longer trigger the "The responses ended prematurely" error and will automatically retry in case of failure.
+- A ZIP file check is performed at the end of each download to ensure everything went smoothly.
+- New user interface design for a more intuitive experience.
+- You now have the option to manually install the patch. For more details, check the FAQ on the website.
+- Patches can now be applied to all NOVECT games installed via Steam by linking the folders. Just check the option in the installer. You can also apply this folder link after patch installation by relaunching the installer and clicking the "Apply to all games" button.
+- Added an automatic Steam game detection window, allowing you to choose which game to patch.
+- The installer now checks if you have enough disk space to proceed with the patch installation.
+- The remastered Japanese versions (animatesgames) of The House in Fata Morgana and Requiem for Innocence are now compatible with the patch.
+- Fixed errors displayed during patch installation on Steam Deck.
+
+## Fixes
+- Game music is now less prone to crackling on low-performance devices.
+- The ending list no longer causes the screen to freeze if you haven’t completed The House in Fata Morgana (Android).
+- Ending images now display correctly in the ending list on Android.
+### English
+- Translation of some character dialogues that were still in French on backstage has been completed.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# PATCH NOTE v2.603
+
+## Fixes
+- After an update, files should now download completely without being susceptible to corruption.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# PATCH NOTE v2.602
+
+## Fixes
+- The sprites are now rendered correctly.
+### French
+- Adding all visual effects to the script
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# PATCH NOTE v2.6
+
+## New Additions
+- Added Russian translation for The House in Fata Morgana and Requiem for Innocence.
+- Option to disable vibration on Android.
+- Updated all backgrounds, Sprites and CG to 4K resolution on Android.
+### Particle System Improvements:
+- Effects now account for transitions, and these are now visible on the save thumbnails.
+- Improved the "Smoke" particle effect.
+- Added new particle effects: FirePlace, Godray, Candle, Shadow...
+- The leaves are now less intrusive in the "Fallean Leaves" effect.
+### English
+- Improved certain sentence structures and punctuation in the two short story of "Mujou No Erasmus".
+### Italian
+- Work-in-progress translation of Requiem available to everyone, will be updated on major milestones.
+
+## Fixes
+- Optimization of performance during fast forward.
+- Resolution of an issue preventing some users from interacting with the Yes and No buttons.
+- Centering of the "No" button text during the update prompt (Android).
+- Fix for a character issue in the letter from the White-Haired Girl (Android).
+- Resolution of a freeze in the ending video of Reincarnation (Android).
+- Fix for Morgana's sprite in last door (issue with a line on a white background).
+- Imeon's sprite is now rendered correctly.
+- The buttons on the main menu no longer extend beyond the screen on some Android devices.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# PATCH NOTE v2.525
+
+## Fixes
+- The screen in "The House in Fata Morgana" no longer freezes when interacting with the ending list button.
+### English
+- Improved certain sentence structures and punctuation in the side story of "Erasmus".
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# PATCH NOTE v2.522
+
+## New Additions
+- Added the "Remaid of Dreams / Patch Note" button to the main menu.
+- Improved menu switch buttons.
+- The description for the "Visual Effects" button is now visible in the options menu.
+- Changed the game title from "The House in Fata Morgana: Dreams of The Revenant Edition" to "The House in Fata Morgana: Remaid of Dreams".
+- Enhanced the "Falling Leaves" particle effect.
+- Added a hover color for the buttons in the Ending List.
+### English
+- Improved certain sentence structures and punctuation in the main story of "Erasmus".
+
+## Fixes
+- You can now interact with the controller in the "The House in Fata Morgana" menu.
+- The "Backstage" button now displays correctly in the "The House in Fata Morgana" menu after finishing the game.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# PATCH NOTE v2.51
+
+## New Additions
+
+- It is now possible to disable particle effects in the game options.
+- You can now save images from the art gallery to your PC (Folder: Pictures\FataMorganaPC).
+- Improved the text animation and backlog system to handle right-to-left languages.
+- You can now interact with the "Ending List" window to view the corresponding images.
+
+## Fixes
+
+- Fixed a sprite bug in the backstage of "The House in Fata Morgana".
+- Fixed an issue where, in some cases, italics were not displayed in the backlog.
+
+### English
+- Fixed an issue where lines appeared as squares in the backstage.
+
+### Italian
+- Fixed a line break in the "Happily Ever After" text in the Requiem for Innocence menu.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# PATCH NOTE v2.5
+
+## New Additions
+
+- Added Italian translation of "The House in Fata Morgana" (P1 to P8, All Endings, Prologue, and Backstage).
+- English translation of "Erasmus" (Main Story, Side Story, Big Sack the Fool, and Barleycorn on a Certain Night).
+- Creation of backgrounds and CGs inspired by Steam games for "Reincarnation".
+- Videos now feature subtitles (.srt files).
+- Improved image quality of the "Requiem for Innocence" menu.
+- "Seventh Lair" and "Erasmus" are now only accessible after unlocking the "short stories" menu.
+- Short stories of "Erasmus" and "Seventh Lair" are available only if you have completed both games.
+- "The Revenant Dreams" is only available after completing "Fragment".
+- Added CGs of "Seventh Lair" and "Erasmus" to the art gallery.
+- Steam Cloud is now functional with the patch.
+- Reversed the T and Y keys for more intuitive use.
+- Realigned the lyrics to what they were in the original steam release.
+- Upscaled the lyrics of "The House in Fata Morgana" to 4K.
+- Renamed the short story "2015 April Fools" to "Carrot Cake Soul-Shuffling Incident".
+- Added a hover image on the "Exit" button in the main menu.
+- Improved the quality of certain backgrounds/CGs and images in the art gallery.
+- Fixed an artifact on the CG of Giselle's door 5.
+- New Visual Effects : you will now see lightning on the screen during thunder, along with particle effects in certain gameplay sequences (rain, leaves, smoke, fog, flames...).
+### Upscaled sprites:
+- Characters included: White-haired Girl (D1/2/3), Maid, Morgana, Imeon, Mell (D1), Nellie (D1), Pauline (D2), Michel, Maria (D8), Beastia, Ceren, George, Michel (Happily), Giselle (Seventh Lair), Javi, Nellie (D8), Didier, Aimée, Gratien, Young Michel, Michel Portrait (D7), Morgana (Requiem), Giselle (Happily Ever After), Mell (D8), Odilon, Barnier, Pauline (D8), Jacopo (Requiem), Jacopo (D3), Giselle, Jacopo (D8), Yukimasa (D2), Swordsman, Maria (D3), NPC (Seventh Lair).
+
+## Fixes
+
+- Issue with the PC installer with unstable connections (Corrupted Zip, missing file...).
+- Bug preventing reinstallation of the patch if it was already installed (PC).
+- Achievements now trigger: calling for the maid 10 times, reaching all endings, completing the game twice, getting all dead ends.
+- Unwanted line break issue in some texts.
+- Incorrect dialogue box position on Steam Deck.
+- Missing sprite animation issue in the backstage of "Requiem for Innocence".
+- Speaker's name now resizes according to the maximum image size.
+- Issue in the art gallery where Y and T keys were reversed.
+- Artifact on the background image of the configuration menu.
+
+### French
+
+Added French subtitles for the introduction video of "The House in Fata Morgana".
+Added French lyrics for "The House in Fata Morgana".
+
+A big thank you to Dobcool for managing the translation of "Erasmus" as well as creating the backgrounds and CGs inspired by the Steam versions for "Reincarnation".
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# PATCH NOTE v2.392
+
+## New Features
+- The "Old Backgrounds" option is now saved when you relaunch the game.
+- Removal of the 16:9 option for "Old Backgrounds."
+- Addition of the old backgrounds from "Seventh Lair" and "Requiem For Innocence."
+- Activation of the old backgrounds parameter is now done in the configuration menu.
+- Reconstruction of AssetBundles for all music except Erasmus with lossless versions (PC only).
+- It is now possible to interact with the "-Version x.xx-" button in the main menu to view the Patch Notes.
+- Addition of a timer in the Concert Hall to track the progress of the music.
+- Addition of "fast forward" and "rewind" buttons in the Concert Hall.
+- Android and PC saves are now compatible with each other (If you already had a save with an old version, you must change an option or create a new save to update the files).
+- The Concert Hall page changes based on where the played music is located.
+- Addition of the "April Fools 2015" (Vegetable.exe) music in the Concert Hall.
+
+## Fixes
+- Fixed video issues on SteamDeck/Linux.
+- Fixed CG scroll animation on SteamDeck.
+- Fixed an exploit allowing players to see locked gallery art pages.
+- Fixed a graphical issue with text when selecting a page or music in the Concert Hall on Android.
+- Reincarnation save images are now properly centered on Android.
+- Fixed a bug preventing clicking on choices in door 4 (Android).
+- Improved button precision on choices (Android).
+
+### French
+- Added lyrics for "Requiem for Innocence" and "Seventh Lair" on Android.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# PATCH NOTE v2.38
+
+## Patch compatible with all Novect games.
+- You can now install the patch on The House In Fata Morgana, Requiem for Innocence, or Seventh Lair.
+- Steam achievements are also unlockable based on where you have installed the patch. For example, if you install the patch on 'The House In Fata Morgana', you can unlock achievements for Door 1, 2... but not those from other games.
+
+## New Features
+
+- Removal of the MangaGamer and HisperGames logos that appear at the start of the game.
+- Modification of the game icon (requires a complete patch reinstallation).
+- Change of the window name from "Seventh Lair" to "The House in Fata Morgana: Dreams of the Revenants Edition."
+- It is now possible to listen to a selected music track in the Concert Hall from the Extra menu.
+
+## Fixes
+
+- The next music track now triggers correctly in the Concert Hall.
+- Update of the Seventh Lair script to a more recent version.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# PATCH NOTE v2.36
+
+## New Features
+- Enhanced the visual quality of a Yukimasa sprite in door 2.
+- Added the "Live in Osaka!" concert to the short stories.
+- <color=red>!!!SPOILER MAIN GAME!!!</color> Once you've completed door 5, it's now possible:
+	To proceed with the scene involving the painting to retrieve the master's room key without having to redo the mirror scene after door 2.
+	To achieve the true ending of door 4 without having to redo the mirror scene after door 2 and the visit to the room during the investigation.||
+
+## Extra Menu Improvements:
+- The "Extra" menu is now accessible immediately after completing "The House In Fata Morgana." It's no longer necessary to finish all games; content unlocks progressively as you advance.
+- Added Erasmus OST to the Concert Hall.
+- Enhanced the visual quality of all art gallery illustrations.
+- It's now possible to listen to music in the Concert Hall with the game minimized in the taskbar.
+
+## Fixes
+- Centered text in door 4.
+- Replaced the text "Seventh Coat" with "Seventh Lair" in the short stories menu.
+- Fixed an issue after completing the short story of Seventh Lair, which redirected us to the extra menu of Seventh Lair.
+
+### English
+- Corrected a translation oversight for all choices in the backstage of Fata Morgana.
+
+### French
+- Translated door transitions.
+- Translated missing text at the end of the final door.
+- Corrected a typo in a text from door 2.
+- Recentered text in door 2.
+- Repositioned some texts in "Requiem For Innocence."
+- Corrected a translation oversight in Requiem and the backstage.
+- Fixed sprite issues in the backstage of "Requiem For Innocence."
+- Translated the title of the short story of Seventh Lair.
+- Split some lines in the choices of door 4 to avoid overflow.
+

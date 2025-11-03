@@ -1,0 +1,31 @@
+[
+  {
+    "Tag": "3.8",
+    "Files": [
+      {
+        "Url": "CheckRemaid",
+        "HashCode": "ORZ6UhliOgo=",
+        "SizeFile": 13841028,
+        "Path": "Remaid_Data/CheckRemaid"
+      },
+      {
+        "Url": "CheckRemaid.exe",
+        "HashCode": "aO9HzI2oX18=",
+        "SizeFile": 12342780,
+        "Path": "Remaid_Data/CheckRemaid.exe"
+      },
+      {
+        "Url": "DataFiles.zip",
+        "HashCode": "x4Dfem6mosY=",
+        "SizeFile": 238870612,
+        "Path": ""
+      },
+      {
+        "Url": "Remaid.exe",
+        "HashCode": "f/j\u002B\u002BcWca4g=",
+        "SizeFile": 653824,
+        "Path": "Remaid.exe"
+      }
+    ]
+  }
+]

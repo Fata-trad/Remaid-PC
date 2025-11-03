@@ -25,6 +25,54 @@
         "HashCode": "f/j\u002B\u002BcWca4g=",
         "SizeFile": 653824,
         "Path": "Remaid.exe"
+      },
+      {
+        "Url": "bgimage_old",
+        "HashCode": "beNPy7cmzJg=",
+        "SizeFile": 478792684,
+        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/bgimage_old"
+      },
+      {
+        "Url": "bgimage_old.manifest",
+        "HashCode": "\u002B4fO7\u002B6LKZU=",
+        "SizeFile": 49274,
+        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/bgimage_old.manifest"
+      },
+      {
+        "Url": "fgimage_pack",
+        "HashCode": "7kytzqYarHw=",
+        "SizeFile": 626416741,
+        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/fgimage_pack"
+      },
+      {
+        "Url": "fgimage_pack.manifest",
+        "HashCode": "ciCq/jgLxW8=",
+        "SizeFile": 7224,
+        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/fgimage_pack.manifest"
+      },
+      {
+        "Url": "mod_patch",
+        "HashCode": "2fuwray6URI=",
+        "SizeFile": 222006740,
+        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/mod_patch"
+      },
+      {
+        "Url": "mod_patch.manifest",
+        "HashCode": "ip6lHYbNTww=",
+        "SizeFile": 60827,
+        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/mod_patch.manifest"
+      },
+      {
+        "Url": "particles",
+        "HashCode": "LZp9DNX\u002B6g8=",
+        "SizeFile": 42672558,
+        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/particles"
+      },
+      {
+        "Url": "particles.manifest",
+        "HashCode": "e6bzCGg8/3s=",
+        "SizeFile": 8322,
+        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/particles.manifest"
       }
     ]
   }

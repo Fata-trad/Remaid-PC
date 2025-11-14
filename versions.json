@@ -1,5 +1,16 @@
 [
   {
+    "Tag": "3.81",
+    "Files": [
+      {
+        "Url": "Assembly-CSharp.dll",
+        "HashCode": "R1HMztyXiyE=",
+        "SizeFile": 1297920,
+        "Path": "Remaid_Data/Managed/Assembly-CSharp.dll"
+      }
+    ]
+  },
+  {
     "Tag": "3.8",
     "Files": [
       {

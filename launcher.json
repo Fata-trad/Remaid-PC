@@ -1,5 +1,5 @@
 {
-  "VersionLauncheur": "0.17",
+  "VersionLauncheur": "0.18",
   "Launcher_TMP": {
     "hash": "izHSiYFshwY=",
     "size": 13733684
@@ -9,11 +9,11 @@
     "size": 12211756
   },
   "Launcher_UPDATEREMAID": {
-    "hash": "26VCf7V1xlg=",
-    "size": 51412485
+    "hash": "6QzymSrxv0M=",
+    "size": 51412997
   },
   "Launcher_UPDATEREMAID.exe": {
-    "hash": "i/od65gPqjE=",
+    "hash": "iCFBLGF6Nps=",
     "size": 52337846
   }
 }

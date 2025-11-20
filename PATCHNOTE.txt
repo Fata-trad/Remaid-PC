@@ -1,4 +1,19 @@
 
+# PATCH NOTE v4.0 BETA (TEMPORARY DEV)
+- New Launcher: Game unlocking system based on what you own in-game by specifying the game’s folder, or through Steam library verification.
+	-Ability to verify file integrity to download corrupted/missing/different files.
+	-Moves the Remaid of Dreams folder.
+	-Uninstalls the game.
+	-Launches games through Steam without necessarily having them installed on the hard drive.
+	-Integrated download resume support.
+	-Maybe some other things I forgot to list here (???)
+
+-Discord Rich Presence showing which game and chapter you're on, the music you're listening to in-game, etc.
+-Upgrade from Unity 2020.3.19f1 to 2020.3.33f1
+-Patch for the included Unity security vulnerability
+-Fix animation macro
+- MORE....
+
 # PATCH NOTE v3.0
 
 ## New Additions
@@ -354,4 +369,5 @@ A big thank you to Dobcool for managing the translation of "Erasmus" as well as 
 - Fixed sprite issues in the backstage of "Requiem For Innocence."
 - Translated the title of the short story of Seventh Lair.
 - Split some lines in the choices of door 4 to avoid overflow.
+
 

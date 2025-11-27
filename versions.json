@@ -11,17 +11,6 @@
     ]
   },
   {
-    "Tag": "3.846",
-    "Files": [
-      {
-        "Url": "RemaidJunc.exe",
-        "HashCode": "PiJBVkJoZs4=",
-        "SizeFile": 6646988,
-        "Path": "Remaid_Data/RemaidJunc.exe"
-      }
-    ]
-  },
-  {
     "Tag": "3.85",
     "Files": [
       {
@@ -29,6 +18,17 @@
         "HashCode": "2domPm8auKM=",
         "SizeFile": 43008,
         "Path": "Remaid_Data/Managed/com.lachee.discordrpc.runtime.dll"
+      }
+    ]
+  },
+  {
+    "Tag": "3.846",
+    "Files": [
+      {
+        "Url": "RemaidJunc.exe",
+        "HashCode": "PiJBVkJoZs4=",
+        "SizeFile": 6646988,
+        "Path": "Remaid_Data/RemaidJunc.exe"
       }
     ]
   },

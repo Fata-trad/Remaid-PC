@@ -8,11 +8,23 @@
 	-Integrated download resume support.
 	-Maybe some other things I forgot to list here (???)
 
--Discord Rich Presence showing which game and chapter you're on, the music you're listening to in-game, etc.
--Upgrade from Unity 2020.3.19f1 to 2020.3.33f1
--Patch for the included Unity security vulnerability
--Fix animation macro
-- MORE....
+- Discord Rich Presence showing which game and chapter you're on, the music you're listening to in-game, etc.
+- Fix animation macro
+- Fixed Arabic text so it's displayed in reverse as expected  
+- Added corrections and Chinese translations  
+- Changed the outfit color on a CG from Door 1 to match the sprite color  
+- Added Happily / FRAGMENT and BACKSTAGE in Italian  
+- Added missing texts in the English backstage of Requiem for Innocence  
+- Added three new short stories  
+- Fixed a dialogue text display issue in Dreams of the Revenant, Door 4 (Michel)  
+- Added a title for Requiem for Innocence’s backstage  
+- The respective games must now be owned on Steam to be launched  
+- Achievements for all games can now be unlocked even from different titles  
+- Upgraded Unity version from 2020.3.19f1 to 2020.3.33f1  
+- Applied Unity’s security vulnerability patch  
+- Added Discord Rich Presence  
+- The autoplay icon disappear after 5 seconds of no user input
+- Composite sprites with overlapping transparency have been merged into a single sprite to fix transparency issues.
 
 # PATCH NOTE v3.0
 
@@ -369,5 +381,6 @@ A big thank you to Dobcool for managing the translation of "Erasmus" as well as 
 - Fixed sprite issues in the backstage of "Requiem For Innocence."
 - Translated the title of the short story of Seventh Lair.
 - Split some lines in the choices of door 4 to avoid overflow.
+
 
 

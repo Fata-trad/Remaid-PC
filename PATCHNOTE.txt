@@ -23,6 +23,10 @@
 - The autoplay icon disappear after 5 seconds of no user input
 - Composite sprites with overlapping transparency have been merged into a single sprite to fix transparency issues.
 
+- Fix of all the image issues in the Japanese script as well as an improved rendering
+- Fix backstage japanese The House in Fata Morgana
+- Add all japanese video
+
 # PATCH NOTE v3.0
 
 ## New Additions
@@ -378,6 +382,7 @@ A big thank you to Dobcool for managing the translation of "Erasmus" as well as 
 - Fixed sprite issues in the backstage of "Requiem For Innocence."
 - Translated the title of the short story of Seventh Lair.
 - Split some lines in the choices of door 4 to avoid overflow.
+
 
 
 

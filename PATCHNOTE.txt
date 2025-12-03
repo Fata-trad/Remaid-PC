@@ -26,6 +26,8 @@
 - Fix of all the image issues in the Japanese script as well as an improved rendering
 - Fix backstage japanese The House in Fata Morgana
 - Add all japanese video
+- La particule de petal est desormais bien rendu
+- Tous les nouveaux effet/particles sont desormais implemente dans le script japonais
 
 # PATCH NOTE v3.0
 
@@ -382,6 +384,7 @@ A big thank you to Dobcool for managing the translation of "Erasmus" as well as 
 - Fixed sprite issues in the backstage of "Requiem For Innocence."
 - Translated the title of the short story of Seventh Lair.
 - Split some lines in the choices of door 4 to avoid overflow.
+
 
 
 

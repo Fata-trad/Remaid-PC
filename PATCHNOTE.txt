@@ -5,7 +5,7 @@
 ### New Launcher Features
 	- Introduced a new game unlocking system that detects owned titles either by specifying the game folder or verifying the Steam library.
 	- Added file integrity verification to redownload corrupted, missing, or mismatched files.
-	- Automatically relocates the Remaid of Dreams folder when necessary.
+	- Added option to move the Remaid of Dreams folder..
 	- Supports full game uninstallation.
 	- Can launch games through Steam even if they are not locally installed.
 	- Integrated download resume functionality.
@@ -400,6 +400,7 @@ A big thank you to Dobcool for managing the translation of "Erasmus" as well as 
 - Fixed sprite issues in the backstage of "Requiem For Innocence."
 - Translated the title of the short story of Seventh Lair.
 - Split some lines in the choices of door 4 to avoid overflow.
+
 
 
 

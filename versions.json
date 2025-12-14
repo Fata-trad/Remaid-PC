@@ -1,13 +1,24 @@
 [
   {
-    "Tag": "3.855",
+    "Tag": "3.86",
     "Files": [
       {
         "Url": "Assembly-CSharp.dll",
-        "HashCode": "077eYh4bS/4=",
-        "SizeFile": 1368064,
+        "HashCode": "KnT4/4v00uM=",
+        "SizeFile": 1369088,
         "Path": "Remaid_Data/Managed/Assembly-CSharp.dll"
       },
+      {
+        "Url": "LinkFiles.zip",
+        "HashCode": "O\u002Bb2VFUU9TU=",
+        "SizeFile": 5944721,
+        "Path": ""
+      }
+    ]
+  },
+  {
+    "Tag": "3.855",
+    "Files": [
       {
         "Url": "mod_patch",
         "HashCode": "DWPlo7pdn94=",

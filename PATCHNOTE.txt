@@ -1,5 +1,5 @@
 
-# PATCH NOTE v4.0 BETA (TEMPORARY DEV)
+# PATCH NOTE v4.0 BETA
 
 ## New Additions
 ### New Launcher Features
@@ -42,6 +42,8 @@ Translation of the following short stories:
 -Adjusted outfit color in a Door 1 CG to match the sprite’s color.
 -Added Happily, FRAGMENT, and BACKSTAGE in Italian.
 -Add all Japanese videos.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # PATCH NOTE v3.0
 
@@ -398,6 +400,7 @@ A big thank you to Dobcool for managing the translation of "Erasmus" as well as 
 - Fixed sprite issues in the backstage of "Requiem For Innocence."
 - Translated the title of the short story of Seventh Lair.
 - Split some lines in the choices of door 4 to avoid overflow.
+
 
 
 

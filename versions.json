@@ -1,6 +1,6 @@
 [
   {
-    "Tag": "3.86",
+    "Tag": "3.861",
     "Files": [
       {
         "Url": "Assembly-CSharp.dll",
@@ -13,6 +13,12 @@
         "HashCode": "O\u002Bb2VFUU9TU=",
         "SizeFile": 5944721,
         "Path": ""
+      },
+      {
+        "Url": "RemaidJunc.exe",
+        "HashCode": "zhhv09bSNBA=",
+        "SizeFile": 1748817,
+        "Path": "Remaid_Data/RemaidJunc.exe"
       }
     ]
   },
@@ -76,17 +82,6 @@
         "HashCode": "2domPm8auKM=",
         "SizeFile": 43008,
         "Path": "Remaid_Data/Managed/com.lachee.discordrpc.runtime.dll"
-      }
-    ]
-  },
-  {
-    "Tag": "3.846",
-    "Files": [
-      {
-        "Url": "RemaidJunc.exe",
-        "HashCode": "PiJBVkJoZs4=",
-        "SizeFile": 6646988,
-        "Path": "Remaid_Data/RemaidJunc.exe"
       }
     ]
   },

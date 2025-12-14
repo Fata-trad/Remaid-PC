@@ -1,35 +1,47 @@
 
 # PATCH NOTE v4.0 BETA (TEMPORARY DEV)
-- New Launcher: Game unlocking system based on what you own in-game by specifying the game’s folder, or through Steam library verification.
-	-Ability to verify file integrity to download corrupted/missing/different files.
-	-Moves the Remaid of Dreams folder.
-	-Uninstalls the game.
-	-Launches games through Steam without necessarily having them installed on the hard drive.
-	-Integrated download resume support.
-	-Maybe some other things I forgot to list here (???)
 
-- Discord Rich Presence showing which game and chapter you're on, the music you're listening to in-game, etc.
-- Fix animation macro
-- Fixed Arabic text so it's displayed in reverse as expected  
-- Added corrections and Chinese translations  
-- Changed the outfit color on a CG from Door 1 to match the sprite color  
-- Added Happily / FRAGMENT and BACKSTAGE in Italian  
-- Added missing texts in the English backstage of Requiem for Innocence  
-- Added three new short stories  
-- Fixed a dialogue text display issue in Dreams of the Revenant, Door 4 (Michel)  
-- Added a title for Requiem for Innocence’s backstage   
-- Upgraded Unity version from 2020.3.19f1 to 2020.3.33f1  
-- Applied Unity’s security vulnerability patch  
-- The autoplay icon disappear after 5 seconds of no user input
-- Composite sprites with overlapping transparency have been merged into a single sprite to fix transparency issues.
+## New Additions
+### New Launcher Features
+	- Introduced a new game unlocking system that detects owned titles either by specifying the game folder or verifying the Steam library.
+	- Added file integrity verification to redownload corrupted, missing, or mismatched files.
+	- Automatically relocates the Remaid of Dreams folder when necessary.
+	- Supports full game uninstallation.
+	- Can launch games through Steam even if they are not locally installed.
+	- Integrated download resume functionality.
+	- (Possibly a few other small improvements I might’ve forgotten to list!)
 
-- Fix of all the image issues in the Japanese script as well as an improved rendering
-- Fix backstage japanese The House in Fata Morgana
-- Add all japanese video
-- La particule de petal est desormais bien rendu
-- Tous les nouveaux effet/particles sont desormais implemente dans le script japonais
-- Ajout d'un sous menu "new game" dans le menu principal
-- Ajout de l'image non censure dans Requiem for Innocence et dans la galerie d'art
+- Main menu streamlined with a dedicated "New Game" sub-menu.
+- Restored the uncensored artwork in Requiem for Innocence and the art gallery.
+### Japanese
+- All new visual effects and particles are now implemented in the Japanese script.
+### Arabic
+- Added chapter title translations in the chapter selection menu.
+### Spanish
+Translation of the following short stories:
+	-The Revenants' Dreams / I. Lost / II. Pain / Boy Meets Girl / Silent Night, Lonely Night / Scarlett in the Coffeehouse / A Ghost of an Excuse / Eternal Meisje. / A Slice of Sweet Serenity, of Days Long Lost I / A Slice of Sweet Serenity, of Days Long Lost II / The Ghost of Rose Manor / The Not-So-Little Mermaid 	/ The Maid and the Beast / Sisterhood of Secrets / A Cup of Kindness
+
+## Fixes
+- Fixed an issue with the animation macro.
+- Corrected Arabic text rendering so it now appears in the proper reverse order.
+- Added various text corrections and new Chinese translations.
+- Filled in missing English backstage texts for Requiem for Innocence.
+- Added three new short stories.
+- Fixed a dialogue display issue in Dreams of the Revenant, Door 4 (Michel’s route).
+- Added a proper title to Requiem for Innocence’s backstage.
+- Updated Unity version from 2020.3.19f1 to 2020.3.33f1.
+- Applied Unity’s security vulnerability patch.
+- The autoplay icon now disappears after 5 seconds of user inactivity.
+- Merged composite sprites with overlapping transparency into single sprites to resolve transparency issues.
+### Japanese
+- Fixed all image-related issues and improved rendering quality in the Japanese script.
+- Fixed the Japanese backstage for The House in Fata Morgana.
+- Petal particle effects are now rendered correctly.
+
+### To Do for Release:
+-Adjusted outfit color in a Door 1 CG to match the sprite’s color.
+-Added Happily, FRAGMENT, and BACKSTAGE in Italian.
+-Add all Japanese videos.
 
 # PATCH NOTE v3.0
 
@@ -386,6 +398,7 @@ A big thank you to Dobcool for managing the translation of "Erasmus" as well as 
 - Fixed sprite issues in the backstage of "Requiem For Innocence."
 - Translated the title of the short story of Seventh Lair.
 - Split some lines in the choices of door 4 to avoid overflow.
+
 
 
 

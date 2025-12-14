@@ -126,14 +126,14 @@
       },
       {
         "Url": "fgimage_pack",
-        "HashCode": "7kytzqYarHw=",
-        "SizeFile": 626416741,
+        "HashCode": "UfLTF5zTTq8=",
+        "SizeFile": 524724440,
         "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/fgimage_pack"
       },
       {
         "Url": "fgimage_pack.manifest",
-        "HashCode": "ciCq/jgLxW8=",
-        "SizeFile": 7224,
+        "HashCode": "hMzqNMNSPSg=",
+        "SizeFile": 6164,
         "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/fgimage_pack.manifest"
       }
     ]

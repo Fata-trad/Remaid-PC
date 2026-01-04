@@ -1,8 +1,7 @@
 
 # PATCH NOTE v4.0
 
-## New Additions
-### New Launcher Features
+## New Launcher Features
 - Introduced a new game unlocking system that detects owned titles either by specifying the game folder or verifying the Steam library.
 - Added file integrity verification to redownload corrupted, missing, or mismatched files.
 - Added option to move the Remaid of Dreams folder.
@@ -11,6 +10,7 @@
 - Integrated download resume functionality.
 - (Possibly a few other small improvements I might’ve forgotten to list!)
 
+## New Additions
 - Discord Rich Presence now shows which game and chapter you're currently playing, as well as the music playing in the concert hall.
 - Main menu streamlined with a dedicated "New Game" sub-menu.
 - Restored the uncensored artwork in Requiem for Innocence and the art gallery.
@@ -410,6 +410,7 @@ A big thank you to Dobcool for managing the translation of "Erasmus" as well as 
 - Fixed sprite issues in the backstage of "Requiem For Innocence."
 - Translated the title of the short story of Seventh Lair.
 - Split some lines in the choices of door 4 to avoid overflow.
+
 
 
 

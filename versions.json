@@ -1,12 +1,66 @@
 [
   {
-    "Tag": "3.901",
+    "Tag": "3.902",
     "Files": [
       {
         "Url": "Assembly-CSharp.dll",
-        "HashCode": "8nfDnVNXZkM=",
-        "SizeFile": 1373184,
+        "HashCode": "N4S3m2fMN\u002Bs=",
+        "SizeFile": 1373696,
         "Path": "Remaid_Data/Managed/Assembly-CSharp.dll"
+      },
+      {
+        "Url": "bgimage_jp",
+        "HashCode": "6Vpc1O4A9gY=",
+        "SizeFile": 30191066,
+        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/bgimage_jp"
+      },
+      {
+        "Url": "bgimage_jp.manifest",
+        "HashCode": "NtF1c2KSbRI=",
+        "SizeFile": 21863,
+        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/bgimage_jp.manifest"
+      },
+      {
+        "Url": "bgimage_size_info.txt",
+        "HashCode": "qRujR5Qb47c=",
+        "SizeFile": 35596,
+        "Path": "Remaid_Data/StreamingAssets/TextAsset/bgimage_size_info.txt"
+      },
+      {
+        "Url": "ChapterMenuData.txt",
+        "HashCode": "cpYzvzzgmII=",
+        "SizeFile": 96785,
+        "Path": "Remaid_Data/StreamingAssets/TextAsset/ChapterMenuData.txt"
+      },
+      {
+        "Url": "lyrics_it",
+        "HashCode": "11gRWu2TxXw=",
+        "SizeFile": 45333433,
+        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/lyrics_it"
+      },
+      {
+        "Url": "lyrics_it.manifest",
+        "HashCode": "dEZ2ATZ8yYE=",
+        "SizeFile": 3522,
+        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/lyrics_it.manifest"
+      },
+      {
+        "Url": "ui_images",
+        "HashCode": "vJQWjGK8Hh4=",
+        "SizeFile": 1154591936,
+        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/ui_images"
+      },
+      {
+        "Url": "ui_images.manifest",
+        "HashCode": "FagGT3prIbY=",
+        "SizeFile": 42261,
+        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/ui_images.manifest"
+      },
+      {
+        "Url": "yoffset_data.txt",
+        "HashCode": "6tvQvv80ULw=",
+        "SizeFile": 3274,
+        "Path": "Remaid_Data/StreamingAssets/TextAsset/yoffset_data.txt"
       }
     ]
   },

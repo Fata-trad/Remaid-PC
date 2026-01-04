@@ -22,6 +22,7 @@
 
 ### Japanese
 - All new visual effects and particles are now implemented in the Japanese script.
+- Add all Japanese videos.
 ### Italian
 - Complete revision of the main scenario of Requiem for Innocence and the bonus story Assento Dele.
 - Added translations of Happily Ever After, Backstage, Fragment, and the first three short stories, all of which have undergone a complete revision.
@@ -41,7 +42,9 @@ Translation of the following short stories:
 - Fixed an issue with the animation macro.
 - Added a proper title to Requiem for Innocence’s backstage.
 - Applied Unity’s security vulnerability patch.
+- Fix imeon sprite with Steam background.
 - Merged composite sprites with overlapping transparency into single sprites to resolve transparency issues.
+
 ### Japanese
 - Fixed all image-related issues and improved rendering quality in the Japanese script.
 - Fixed the Japanese backstage for The House in Fata Morgana.
@@ -49,9 +52,6 @@ Translation of the following short stories:
 ### English
 - Filled in missing English backstage texts for Requiem for Innocence.
 - Fixed a dialogue display issue in Dreams of the Revenant from Door 4.
-
-### To Do for Release:
--Add all Japanese videos.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -410,6 +410,7 @@ A big thank you to Dobcool for managing the translation of "Erasmus" as well as 
 - Fixed sprite issues in the backstage of "Requiem For Innocence."
 - Translated the title of the short story of Seventh Lair.
 - Split some lines in the choices of door 4 to avoid overflow.
+
 
 
 

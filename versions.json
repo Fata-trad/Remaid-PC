@@ -1,5 +1,100 @@
 [
   {
+    "Tag": "3.9",
+    "Files": [
+      {
+        "Url": "bgimage2",
+        "HashCode": "LETTj4augTo=",
+        "SizeFile": 1753202059,
+        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/bgimage2"
+      },
+      {
+        "Url": "bgimage2.manifest",
+        "HashCode": "PLPWEe\u002BldEg=",
+        "SizeFile": 30004,
+        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/bgimage2.manifest"
+      },
+      {
+        "Url": "bgimage3",
+        "HashCode": "kNDR2\u002BIfZqg=",
+        "SizeFile": 1679340704,
+        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/bgimage3"
+      },
+      {
+        "Url": "bgimage3.manifest",
+        "HashCode": "9byDh/T2dug=",
+        "SizeFile": 28818,
+        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/bgimage3.manifest"
+      },
+      {
+        "Url": "bgimage4",
+        "HashCode": "g44AO0Y9NLc=",
+        "SizeFile": 865032927,
+        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/bgimage4"
+      },
+      {
+        "Url": "bgimage4.manifest",
+        "HashCode": "BXA5c\u002BnnG\u002BM=",
+        "SizeFile": 20319,
+        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/bgimage4.manifest"
+      },
+      {
+        "Url": "DiscordLocalization.json",
+        "HashCode": "B9LN5UvpC6M=",
+        "SizeFile": 3936,
+        "Path": "Remaid_Data/StreamingAssets/TextAsset/DiscordLocalization.json"
+      },
+      {
+        "Url": "LanguageData.txt",
+        "HashCode": "ywItaWfmN4g=",
+        "SizeFile": 596,
+        "Path": "Remaid_Data/StreamingAssets/TextAsset/LanguageData.txt"
+      },
+      {
+        "Url": "mod_patch",
+        "HashCode": "/lN3bRp53tM=",
+        "SizeFile": 226430791,
+        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/mod_patch"
+      },
+      {
+        "Url": "mod_patch.manifest",
+        "HashCode": "kRvyKbIEuO8=",
+        "SizeFile": 62263,
+        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/mod_patch.manifest"
+      },
+      {
+        "Url": "MOV_introFD_JP.mp4",
+        "HashCode": "FmkcnWMEEYc=",
+        "SizeFile": 280455435,
+        "Path": "Remaid_Data/StreamingAssets/movie_fullHD_JP/MOV_introFD_JP.mp4"
+      },
+      {
+        "Url": "MOV_intro_JP.mp4",
+        "HashCode": "WduMmqmCgVI=",
+        "SizeFile": 218497793,
+        "Path": "Remaid_Data/StreamingAssets/movie_fullHD_JP/MOV_intro_JP.mp4"
+      },
+      {
+        "Url": "MOV_staffroll_main_JP.mp4",
+        "HashCode": "ElvJBs1hZf4=",
+        "SizeFile": 190618046,
+        "Path": "Remaid_Data/StreamingAssets/movie_fullHD_JP/MOV_staffroll_main_JP.mp4"
+      },
+      {
+        "Url": "MOV_staffroll_rein_JP.mp4",
+        "HashCode": "H9mR\u002BOz/\u002BGk=",
+        "SizeFile": 199543243,
+        "Path": "Remaid_Data/StreamingAssets/movie_fullHD_JP/MOV_staffroll_rein_JP.mp4"
+      },
+      {
+        "Url": "SystemMessageData.txt",
+        "HashCode": "QiPg82ZMKwE=",
+        "SizeFile": 66921,
+        "Path": "Remaid_Data/StreamingAssets/TextAsset/SystemMessageData.txt"
+      }
+    ]
+  },
+  {
     "Tag": "3.861",
     "Files": [
       {
@@ -26,18 +121,6 @@
     "Tag": "3.855",
     "Files": [
       {
-        "Url": "mod_patch",
-        "HashCode": "DWPlo7pdn94=",
-        "SizeFile": 225918625,
-        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/mod_patch"
-      },
-      {
-        "Url": "mod_patch.manifest",
-        "HashCode": "HOw5WbftAi4=",
-        "SizeFile": 60941,
-        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/mod_patch.manifest"
-      },
-      {
         "Url": "particles",
         "HashCode": "qJphl0Y8gNk=",
         "SizeFile": 42681424,
@@ -48,29 +131,6 @@
         "HashCode": "IKAkrGdSURg=",
         "SizeFile": 8467,
         "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/particles.manifest"
-      },
-      {
-        "Url": "SystemMessageData.txt",
-        "HashCode": "nzHfbda0lRU=",
-        "SizeFile": 61656,
-        "Path": "Remaid_Data/StreamingAssets/TextAsset/SystemMessageData.txt"
-      }
-    ]
-  },
-  {
-    "Tag": "3.853",
-    "Files": [
-      {
-        "Url": "bgimage4",
-        "HashCode": "/hZy6/v/y2U=",
-        "SizeFile": 867034390,
-        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/bgimage4"
-      },
-      {
-        "Url": "bgimage4.manifest",
-        "HashCode": "6uwr4xnPAuU=",
-        "SizeFile": 20279,
-        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/bgimage4.manifest"
       }
     ]
   },

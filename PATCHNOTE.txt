@@ -1,47 +1,54 @@
 
-# PATCH NOTE v4.0 BETA
+# PATCH NOTE v4.0
 
 ## New Additions
 ### New Launcher Features
-	- Introduced a new game unlocking system that detects owned titles either by specifying the game folder or verifying the Steam library.
-	- Added file integrity verification to redownload corrupted, missing, or mismatched files.
-	- Added option to move the Remaid of Dreams folder..
-	- Supports full game uninstallation.
-	- Can launch games through Steam even if they are not locally installed.
-	- Integrated download resume functionality.
-	- (Possibly a few other small improvements I might’ve forgotten to list!)
+- Introduced a new game unlocking system that detects owned titles either by specifying the game folder or verifying the Steam library.
+- Added file integrity verification to redownload corrupted, missing, or mismatched files.
+- Added option to move the Remaid of Dreams folder..
+- Supports full game uninstallation.
+- Can launch games through Steam even if they are not locally installed.
+- Integrated download resume functionality.
+- (Possibly a few other small improvements I might’ve forgotten to list!)
 
 - Discord Rich Presence now shows which game and chapter you're currently playing, as well as the music playing in the concert hall.
 - Main menu streamlined with a dedicated "New Game" sub-menu.
 - Restored the uncensored artwork in Requiem for Innocence and the art gallery.
+- Adjusted outfit color in a Door 1 CG to match the sprite’s color.
+- The autoplay icon now disappears after 5 seconds of user inactivity.
+- Updated Unity version from 2020.3.19f1 to 2020.3.33f1.
+- Added three new short stories.
 ### Japanese
 - All new visual effects and particles are now implemented in the Japanese script.
+### Italian
+- Complete revision of the main scenario of Requiem for Innocence and the bonus story Assento Dele.
+- Added translations of Happily Ever After, Backstage, Fragment, and the first three short stories, all of which have undergone a complete revision.
+- Complete translation of all lyrics from Requiem for Innocence.
 ### Arabic
 - Added chapter title translations in the chapter selection menu.
+- Corrected Arabic text rendering
 ### Spanish
 Translation of the following short stories:
 	-The Revenants' Dreams / I. Lost / II. Pain / Boy Meets Girl / Silent Night, Lonely Night / Scarlett in the Coffeehouse / A Ghost of an Excuse / Eternal Meisje. / A Slice of Sweet Serenity, of Days Long Lost I / A Slice of Sweet Serenity, of Days Long Lost II / The Ghost of Rose Manor / The Not-So-Little Mermaid 	/ The Maid and the Beast / Sisterhood of Secrets / A Cup of Kindness
+### Chinese
+- Added complete translations: Backstages (The House in Fata Morgana, Requiem for Innocence), Carrot Cake Soul-Shuffling Incident, Oyabake! - Oyashiki Vacation 1 & 2.
+- Complete revision of the short stories: The Revenants’ Dream, Silent Night, Lonely Night, No Name Application
+- Correction of in-game interface text
 
 ## Fixes
 - Fixed an issue with the animation macro.
-- Corrected Arabic text rendering so it now appears in the proper reverse order.
-- Added various text corrections and new Chinese translations.
-- Filled in missing English backstage texts for Requiem for Innocence.
-- Added three new short stories.
-- Fixed a dialogue display issue in Dreams of the Revenant, Door 4 (Michel’s route).
 - Added a proper title to Requiem for Innocence’s backstage.
-- Updated Unity version from 2020.3.19f1 to 2020.3.33f1.
 - Applied Unity’s security vulnerability patch.
-- The autoplay icon now disappears after 5 seconds of user inactivity.
 - Merged composite sprites with overlapping transparency into single sprites to resolve transparency issues.
 ### Japanese
 - Fixed all image-related issues and improved rendering quality in the Japanese script.
 - Fixed the Japanese backstage for The House in Fata Morgana.
 - Petal particle effects are now rendered correctly.
+### English
+- Filled in missing English backstage texts for Requiem for Innocence.
+- Fixed a dialogue display issue in Dreams of the Revenant from Door 4.
 
 ### To Do for Release:
--Adjusted outfit color in a Door 1 CG to match the sprite’s color.
--Added Happily, FRAGMENT, and BACKSTAGE in Italian.
 -Add all Japanese videos.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -401,6 +408,7 @@ A big thank you to Dobcool for managing the translation of "Erasmus" as well as 
 - Fixed sprite issues in the backstage of "Requiem For Innocence."
 - Translated the title of the short story of Seventh Lair.
 - Split some lines in the choices of door 4 to avoid overflow.
+
 
 
 

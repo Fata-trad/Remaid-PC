@@ -26,6 +26,7 @@
 - Complete revision of the main scenario of Requiem for Innocence and the bonus story Assento Dele.
 - Added translations of Happily Ever After, Backstage, Fragment, and the first three short stories, all of which have undergone a complete revision.
 - Complete translation of all lyrics from Requiem for Innocence.
+- Many thanks to Neve for proofreading all of the Requiem scripts during these past few months.
 ### Arabic
 - Added chapter title translations in the chapter selection menu.
 - Corrected Arabic text rendering
@@ -409,6 +410,7 @@ A big thank you to Dobcool for managing the translation of "Erasmus" as well as 
 - Fixed sprite issues in the backstage of "Requiem For Innocence."
 - Translated the title of the short story of Seventh Lair.
 - Split some lines in the choices of door 4 to avoid overflow.
+
 
 
 

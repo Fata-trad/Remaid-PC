@@ -1,5 +1,16 @@
 [
   {
+    "Tag": "3.904",
+    "Files": [
+      {
+        "Url": "Assembly-CSharp.dll",
+        "HashCode": "vTd\u002B6IS0hXg=",
+        "SizeFile": 1373696,
+        "Path": "Remaid_Data/Managed/Assembly-CSharp.dll"
+      }
+    ]
+  },
+  {
     "Tag": "3.903",
     "Files": [
       {
@@ -43,12 +54,6 @@
   {
     "Tag": "3.902",
     "Files": [
-      {
-        "Url": "Assembly-CSharp.dll",
-        "HashCode": "N4S3m2fMN\u002Bs=",
-        "SizeFile": 1373696,
-        "Path": "Remaid_Data/Managed/Assembly-CSharp.dll"
-      },
       {
         "Url": "bgimage_jp",
         "HashCode": "6Vpc1O4A9gY=",

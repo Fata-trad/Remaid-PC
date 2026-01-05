@@ -19,6 +19,8 @@
 - Updated Unity version from 2020.3.19f1 to 2020.3.33f1.
 - Added three new short stories.
 - The game continues to run in the background.
+- Desormais la music du menu principal est la music du menu principal du jeu originel The house in fata morgana quand nous ne lavons pas termine et que l'on a le jeu.
+
 ### Japanese
 - All new visual effects and particles are now implemented in the Japanese script.
 - Add all Japanese videos.
@@ -410,6 +412,7 @@ A big thank you to Dobcool for managing the translation of "Erasmus" as well as 
 - Fixed sprite issues in the backstage of "Requiem For Innocence."
 - Translated the title of the short story of Seventh Lair.
 - Split some lines in the choices of door 4 to avoid overflow.
+
 
 
 

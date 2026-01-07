@@ -46,7 +46,7 @@ and more ...
 - Added chapter title translations in the chapter selection menu.
 - Corrected Arabic text rendering
 ### Spanish
--Translation of the following short stories:
+- Translation of the following short stories:
 (The Revenants' Dreams / I. Lost / II. Pain / Boy Meets Girl / Silent Night, Lonely Night / Scarlett in the Coffeehouse / A Ghost of an Excuse / Eternal Meisje. / A Slice of Sweet Serenity, of Days Long Lost I / A Slice of Sweet Serenity, of Days Long Lost II / The Ghost of Rose Manor / The Not-So-Little Mermaid / The Maid and the Beast / Sisterhood of Secrets / A Cup of Kindness)
 ### Chinese
 - Added complete translations: Backstages (The House in Fata Morgana, Requiem for Innocence), Carrot Cake Soul-Shuffling Incident, Oyabake! - Oyashiki Vacation 1 & 2.
@@ -425,4 +425,5 @@ A big thank you to Dobcool for managing the translation of "Erasmus" as well as 
 - Fixed sprite issues in the backstage of "Requiem For Innocence."
 - Translated the title of the short story of Seventh Lair.
 - Split some lines in the choices of door 4 to avoid overflow.
+
 

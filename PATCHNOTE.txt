@@ -59,7 +59,7 @@ and more ...
 - Applied Unity’s security vulnerability patch.
 - Fix imeon sprite with Steam background.
 - Merged composite sprites with overlapping transparency into single sprites to resolve transparency issues.
-
+- The "Return to Title" button in-game no longer exceeds its border, regardless of the language or text length.
 ### Japanese
 - Fixed all image-related issues and improved rendering quality in the Japanese script.
 - Fixed the Japanese backstage for The House in Fata Morgana.
@@ -425,3 +425,4 @@ A big thank you to Dobcool for managing the translation of "Erasmus" as well as 
 - Fixed sprite issues in the backstage of "Requiem For Innocence."
 - Translated the title of the short story of Seventh Lair.
 - Split some lines in the choices of door 4 to avoid overflow.
+

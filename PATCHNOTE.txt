@@ -4,6 +4,16 @@
 ## New Launcher Features
 - The launcher and installer are now fully compatible with Linux. You no longer need to run them through Proton (the game itself, however, still requires Proton !).
 - Introduced a new game unlocking system that detects owned titles either by specifying the game folder or verifying the Steam library.
+### Title unlocking conditions:
+The House in Fata Morgana: requires ownership of the game.
+Requiem for Innocence: requires ownership of the game.
+Reincarnation: requires The House in Fata Morgana and Requiem for Innocence.
+Seventh Lair: requires ownership of the game.
+Short Stories I. A Slow-Killing Poison, II. Defectives, III. The Painting’s Rambling: require Requiem for Innocence.
+Dreams of the Revenants Edition – Short Stories: require The House in Fata Morgana and Requiem for Innocence.
+Mujou no Erasmus: does not require any other game.
+Oyabake 1 & 2: require The House in Fata Morgana.
+
 - Added file integrity verification to redownload corrupted, missing, or mismatched files.
 - Added option to move the Remaid of Dreams folder.
 - Supports full game uninstallation.
@@ -413,3 +423,4 @@ A big thank you to Dobcool for managing the translation of "Erasmus" as well as 
 - Fixed sprite issues in the backstage of "Requiem For Innocence."
 - Translated the title of the short story of Seventh Lair.
 - Split some lines in the choices of door 4 to avoid overflow.
+

@@ -13,6 +13,8 @@ Short Stories I. A Slow-Killing Poison, II. Defectives, III. The Painting’s Ra
 Dreams of the Revenants Edition – Short Stories: require The House in Fata Morgana and Requiem for Innocence.
 Mujou no Erasmus: does not require any other game.
 Oyabake 1 & 2: require The House in Fata Morgana.
+Carrot Cake Soul-Shuffling Incident: require The House in Fata Morgana.
+Live in Osaka!: requires owning the DLC on Steam.
 
 - Added file integrity verification to redownload corrupted, missing, or mismatched files.
 - Added option to move the Remaid of Dreams folder.
@@ -423,4 +425,5 @@ A big thank you to Dobcool for managing the translation of "Erasmus" as well as 
 - Fixed sprite issues in the backstage of "Requiem For Innocence."
 - Translated the title of the short story of Seventh Lair.
 - Split some lines in the choices of door 4 to avoid overflow.
+
 

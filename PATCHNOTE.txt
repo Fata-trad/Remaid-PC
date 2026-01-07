@@ -22,7 +22,7 @@ and more ...
 - The autoplay icon now disappears after 5 seconds of user inactivity.
 - Updated Unity version from 2020.3.19f1 to 2020.3.33f1.
 - Added three new short stories in English.
-(Their Distant Reverie/ Atonement / Tír na nÓg.
+(Their Distant Reverie/ Atonement / Tír na nÓg)
 - The game continues to run in the background.
 ### Japanese
 - All new visual effects and particles are now implemented in the Japanese script.
@@ -415,6 +415,7 @@ A big thank you to Dobcool for managing the translation of "Erasmus" as well as 
 - Fixed sprite issues in the backstage of "Requiem For Innocence."
 - Translated the title of the short story of Seventh Lair.
 - Split some lines in the choices of door 4 to avoid overflow.
+
 
 
 

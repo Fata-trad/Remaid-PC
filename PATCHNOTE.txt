@@ -4,7 +4,7 @@
 ## New Launcher Features
 - The launcher and installer are now fully compatible with Linux. You no longer need to run them through Proton (the game itself, however, still requires Proton !).
 - Introduced a new game unlocking system that detects owned titles either by specifying the game folder or verifying the Steam library.
-### Title unlocking conditions:
+Title unlocking conditions:
 The House in Fata Morgana: requires ownership of the game.
 Requiem for Innocence: requires ownership of the game.
 Reincarnation: requires The House in Fata Morgana and Requiem for Innocence.
@@ -425,5 +425,6 @@ A big thank you to Dobcool for managing the translation of "Erasmus" as well as 
 - Fixed sprite issues in the backstage of "Requiem For Innocence."
 - Translated the title of the short story of Seventh Lair.
 - Split some lines in the choices of door 4 to avoid overflow.
+
 
 

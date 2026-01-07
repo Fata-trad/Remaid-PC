@@ -1,5 +1,40 @@
 [
   {
+    "Tag": "4.0",
+    "Files": [
+      {
+        "Url": "ArtGalleryData.txt",
+        "HashCode": "H88ukWJpAts=",
+        "SizeFile": 8305,
+        "Path": "Remaid_Data/StreamingAssets/TextAsset/ArtGalleryData.txt"
+      },
+      {
+        "Url": "Assembly-CSharp.dll",
+        "HashCode": "l0uP\u002Bk9\u002BMSs=",
+        "SizeFile": 1373696,
+        "Path": "Remaid_Data/Managed/Assembly-CSharp.dll"
+      },
+      {
+        "Url": "com.lachee.discordrpc.runtime.dll",
+        "HashCode": "lQ/qkg1ZCjg=",
+        "SizeFile": 46592,
+        "Path": "Remaid_Data/Managed/com.lachee.discordrpc.runtime.dll"
+      },
+      {
+        "Url": "DiscordRPC.dll",
+        "HashCode": "y6wLgOOyd6k=",
+        "SizeFile": 93696,
+        "Path": "Remaid_Data/Managed/DiscordRPC.dll"
+      },
+      {
+        "Url": "PATCHNOTE.txt",
+        "HashCode": "PdxWKzAnva8=",
+        "SizeFile": 24976,
+        "Path": "Remaid_Data/StreamingAssets/TextAsset/PATCHNOTE.txt"
+      }
+    ]
+  },
+  {
     "Tag": "3.905",
     "Files": [
       {
@@ -7,17 +42,6 @@
         "HashCode": "JWum1CBh1Vk=",
         "SizeFile": 19789,
         "Path": "Remaid_Data/AllPathFiles.txt"
-      }
-    ]
-  },
-  {
-    "Tag": "3.904",
-    "Files": [
-      {
-        "Url": "Assembly-CSharp.dll",
-        "HashCode": "vTd\u002B6IS0hXg=",
-        "SizeFile": 1373696,
-        "Path": "Remaid_Data/Managed/Assembly-CSharp.dll"
       }
     ]
   },
@@ -211,17 +235,6 @@
         "HashCode": "IKAkrGdSURg=",
         "SizeFile": 8467,
         "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/particles.manifest"
-      }
-    ]
-  },
-  {
-    "Tag": "3.85",
-    "Files": [
-      {
-        "Url": "com.lachee.discordrpc.runtime.dll",
-        "HashCode": "2domPm8auKM=",
-        "SizeFile": 43008,
-        "Path": "Remaid_Data/Managed/com.lachee.discordrpc.runtime.dll"
       }
     ]
   },

@@ -1,5 +1,16 @@
 [
   {
+    "Tag": "4.1",
+    "Files": [
+      {
+        "Url": "Assembly-CSharp.dll",
+        "HashCode": "sAc606BDwUM=",
+        "SizeFile": 1373696,
+        "Path": "Remaid_Data/Managed/Assembly-CSharp.dll"
+      }
+    ]
+  },
+  {
     "Tag": "4.0",
     "Files": [
       {
@@ -7,12 +18,6 @@
         "HashCode": "H88ukWJpAts=",
         "SizeFile": 8305,
         "Path": "Remaid_Data/StreamingAssets/TextAsset/ArtGalleryData.txt"
-      },
-      {
-        "Url": "Assembly-CSharp.dll",
-        "HashCode": "l0uP\u002Bk9\u002BMSs=",
-        "SizeFile": 1373696,
-        "Path": "Remaid_Data/Managed/Assembly-CSharp.dll"
       },
       {
         "Url": "com.lachee.discordrpc.runtime.dll",

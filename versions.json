@@ -1,5 +1,22 @@
 [
   {
+    "Tag": "4.11",
+    "Files": [
+      {
+        "Url": "bgimage_it",
+        "HashCode": "pn133fa/Z9w=",
+        "SizeFile": 27209386,
+        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/bgimage_it"
+      },
+      {
+        "Url": "bgimage_it.manifest",
+        "HashCode": "K9aP41prJ0s=",
+        "SizeFile": 17078,
+        "Path": "Remaid_Data/StreamingAssets/AssetBundles/Windows64/bgimage_it.manifest"
+      }
+    ]
+  },
+  {
     "Tag": "4.1",
     "Files": [
       {

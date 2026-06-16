@@ -1,4 +1,29 @@
 
+# PATCH NOTE v5.0
+
+## New Additions
+
+- The House in Fata Morgana: Reincarnation Revamp by KSAV. This fan-made visual overhaul brings a fresh artistic vision to Reincarnation, featuring:
+A refined semi-realistic visual style that preserves the soul of the original
+Redesigned character outfits to enhance atmosphere, personality, and narrative tone
+A cohesive, cinematic aesthetic that reimagines the world while honouring its legacy of the legendary artist Moyataro
+More immersive and atmospheric effects (things may move on your screen in various unexpected ways)
+
+- A new way to experience The Revenants' Dream—while keeping the original version fully accessible—crafted by Banz99:
+A community-made merged version combining Fragment and The Revenants' Dream, featuring enhanced sprites, backgrounds, CGs and visual effects.
+
+- Added Rose & Camellia and The Fata Morgana (Flash version).
+- Short stories now feature a visual padlock if you don't own the required games.
+
+### Arabic
+- Translation of Door 3 and the manor visit before Door 4.
+
+## Fixes
+- Fixed issues with the new transparent sprite component system.
+- The Steam Deck gaming mode is now fully functional with the launcher.
+
+---------------------------------------------------------------------------------------------------------
+
 # PATCH NOTE v4.1
 
 ## Fixes

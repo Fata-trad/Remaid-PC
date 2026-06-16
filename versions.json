@@ -1,5 +1,16 @@
 [
   {
+    "Tag": "5.0",
+    "Files": [
+      {
+        "Url": "PATCHNOTE.txt",
+        "HashCode": "Rg4jah/QIXM=",
+        "SizeFile": 26733,
+        "Path": "Remaid_Data/StreamingAssets/TextAsset/PATCHNOTE.txt"
+      }
+    ]
+  },
+  {
     "Tag": "4.90",
     "Files": [
       {
@@ -155,12 +166,6 @@
         "HashCode": "y6wLgOOyd6k=",
         "SizeFile": 93696,
         "Path": "Remaid_Data/Managed/DiscordRPC.dll"
-      },
-      {
-        "Url": "PATCHNOTE.txt",
-        "HashCode": "PdxWKzAnva8=",
-        "SizeFile": 24976,
-        "Path": "Remaid_Data/StreamingAssets/TextAsset/PATCHNOTE.txt"
       }
     ]
   },

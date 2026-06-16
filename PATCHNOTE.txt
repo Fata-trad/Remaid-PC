@@ -74,7 +74,6 @@ and more ...
 - Complete revision of the main scenario of Requiem for Innocence and the bonus story Assento Dele.
 - Added translations of Happily Ever After, Backstage, Fragment, and the first three short stories, all of which have undergone a complete revision.
 - Complete translation of all lyrics from Requiem for Innocence.
-- Many thanks to Neve for proofreading all of the Requiem scripts during these past few months.
 ### Arabic
 - Added chapter title translations in the chapter selection menu.
 - Corrected Arabic text rendering
